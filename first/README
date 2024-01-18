@@ -1,0 +1,13 @@
+:Compiling
+	Run the make utility to compile.
+
+:Usage
+	first start the main
+		$ ./main
+	then in another terminal start min
+		$ ./min
+	
+	and wait for the min to complete its computations.
+	(min is dependent on main if main isnt runnig already min will
+	 fail and wail.)
+	
